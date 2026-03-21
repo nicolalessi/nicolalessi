@@ -14,7 +14,7 @@
 
 ## What I'm building
 
-### 🔬 [vexp](https://vexp.dev) — Local-first context engine for AI coding agents
+### 🔬 [Vexp](https://vexp.dev) — Local-first context engine for AI coding agents
 
 Combines tree-sitter AST parsing, dependency graph traversal, hybrid search (FTS5 + TF-IDF + graph centrality), intent detection, and AST-level skeletonization into a single pipeline → 74% fewer tokens, session memory, zero cloud.
 
