@@ -30,7 +30,7 @@ Solo-built the full stack: Rust core (tree-sitter, petgraph, SQLite, blake3), Ty
 
 ---
 
-### 🎬 [Lumigo](https://lumigo.it) — AI-powered entertainment discovery
+### 🎬 [Lumigo](https://lumigo.tv) — AI-powered entertainment discovery
 
 NLP mood-based content recommendations. **500K+ page views, 30K users, €0 marketing.**
 
