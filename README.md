@@ -53,7 +53,7 @@ I build things, ship them, and get users — consistently, without budgets.
 
 **Team Leader → Software Analyst** at **Intesa Sanpaolo** (via Exprivia S.p.A.)
 
-Mission-critical financial markets IT. Trading systems, front-office integrations, core banking. IBM MQ, WebSphere, SQL, Python, Unix. Led a hybrid team of 6 — finance and IT — on mission-critical trading systems. 99.9% uptime. 30% faster incident resolution. ECB/ECMS compliance. 40% reduction in deployment time via CI/CD.
+6+ years at Intesa Sanpaolo, one of Europe's largest banks. Started as Software Analyst building enterprise integrations across trading, front-office, and core banking (IBM MQ, WebSphere, SQL, Python, Unix) - cut deployment time 40% via CI/CD. Promoted to Team Leader: led a hybrid team of 6 (finance and IT) managing SLAs, budgets, and direct stakeholder relationships with trading desks. 99.9% uptime. ECB/ECMS regulatory compliance delivered on schedule.
 
 ## Current focus
 
