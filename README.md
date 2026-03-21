@@ -69,4 +69,4 @@ Mission-critical financial markets IT. Trading systems, front-office integration
 
 ---
 
-*Solo founder. Serial builder. If you're working on AI agents and tired of context thrashing, [try vexp](https://vexp.dev). If you're investing in developer infrastructure, let's talk.*
+If you're working on AI agents and tired of context thrashing, [try vexp](https://vexp.dev). If you're investing in developer infrastructure, let's talk.*
