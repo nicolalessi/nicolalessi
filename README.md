@@ -5,8 +5,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tree-sitter](https://img.shields.io/badge/-Tree--sitter-6EBF8B?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -16,15 +14,15 @@
 
 ### 🔬 [Vexp](https://vexp.dev) — Local-first context engine for AI coding agents
 
-Combines tree-sitter AST parsing, dependency graph traversal, hybrid search (FTS5 + TF-IDF + graph centrality), intent detection, and AST-level skeletonization into a single pipeline → 74% fewer tokens, session memory, zero cloud.
+Analyzes codebases at the AST level, identifies the most relevant code via hybrid search, and delivers compressed context capsules with session memory. 74% fewer tokens, 30 languages, zero cloud.
 
-Solo-built the full stack: Rust core (tree-sitter, petgraph, SQLite, blake3), TypeScript MCP server (11 tools), VS Code extension with LSP bridge, passive observation pipeline.
+Solo-built the full stack: native Rust daemon, TypeScript MCP server (11 tools), VS Code extension with LSP bridge, and a passive observation engine.
 
 | Metric | Value |
 |--------|-------|
 | **Agents supported** | 12 (Claude Code, Cursor, Copilot, Windsurf, Zed, Codex...) |
-| **Languages parsed** | 30)|
-| **Architecture** | Single Rust binary, 100% local, zero network calls |
+| **Languages parsed** | 30 |
+| **Architecture** | Single native binary, 100% local, zero network calls |
 
 **→** [vexp.dev](https://vexp.dev) · [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Vexp.vexp-vscode) · [npm CLI](https://www.npmjs.com/package/vexp-cli)
 
@@ -47,7 +45,7 @@ I build things, ship them, and get users — consistently, without budgets.
 | 2026 | **[Vexp](https://vexp.dev)** | Context engine for AI agents. 30 paying users in 15 days, $0 CAC |
 | 2025 | **[Lumigo](https://lumigo.tv)** | AI entertainment platform. 500K page views, 30K users, €0 marketing |
 | 2022 | **Fantagoverno** | Political engagement game. MVP in 4 weeks, 6K users in 3 months |
-| 2021 | **Clicmon** | Gen Z sustainable marketplace. 9-person team, 42% waitlist conversion, €1.32 CAC ||
+| 2021 | **Clicmon** | Gen Z sustainable marketplace. 9-person team, 42% waitlist conversion, €1.32 CAC |
 
 ## Day job (6+ years)
 
@@ -68,5 +66,3 @@ I build things, ship them, and get users — consistently, without budgets.
 [![Email](https://img.shields.io/badge/-nicola@vexp.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicola@vexp.dev)
 
 ---
-
-If you're working on AI agents and tired of context thrashing, [try vexp](https://vexp.dev). If you're investing in developer infrastructure, let's talk.*
