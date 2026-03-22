@@ -23,7 +23,7 @@ Solo-built the full stack: Rust core (tree-sitter, petgraph, SQLite, blake3), Ty
 | Metric | Value |
 |--------|-------|
 | **Agents supported** | 12 (Claude Code, Cursor, Copilot, Windsurf, Zed, Codex...) |
-| **Languages parsed** | 11 (more to come)|
+| **Languages parsed** | 30)|
 | **Architecture** | Single Rust binary, 100% local, zero network calls |
 
 **→** [vexp.dev](https://vexp.dev) · [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Vexp.vexp-vscode) · [npm CLI](https://www.npmjs.com/package/vexp-cli)
