@@ -42,7 +42,9 @@ I build things, ship them, and get users — consistently, without budgets.
 
 | Year | Project | What happened |
 |------|---------|---------------|
-| 2026 | **[Vexp](https://vexp.dev)** | Context engine for AI agents. 30 paying users in 15 days, $0 CAC |
+| 2026 | **[Vexp](https://vexp.dev)** | Context layer for AI coding agents |
+| 2026 | **[Quibo](https://quibo.cc/)** | Rank everywhere, Write nothing - Agentic SEO blog creation (16+ agents in pipeline) |
+| 2026 | **[Vaultscan](https://vaultscan.site/)** | Agentic vulnerabilities assessment for Vibe Coders |
 | 2025 | **[Lumigo](https://lumigo.tv)** | AI entertainment platform. 500K page views, 30K users, €0 marketing |
 | 2022 | **Fantagoverno** | Political engagement game. MVP in 4 weeks, 6K users in 3 months |
 | 2021 | **Clicmon** | Gen Z sustainable marketplace. 9-person team, 42% waitlist conversion, €1.32 CAC |
