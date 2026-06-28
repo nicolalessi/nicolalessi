@@ -1,6 +1,6 @@
 # Hi, I'm Nicola 👋
 
-📍 **Milan, Italy** · 🦀 **Rust + TypeScript** · 🏗️ **Building the context layer for AI coding agents**
+📍 **Milan, Italy** · **Rust + TypeScript + Python** · **Building the context layer for AI coding agents**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -12,7 +12,7 @@
 
 ## What I'm building
 
-### 🔬 [Vexp](https://vexp.dev) — Local-first context engine for AI coding agents
+### [Vexp](https://vexp.dev) — Local-first context engine for AI coding agents
 
 Analyzes codebases at the AST level, identifies the most relevant code via hybrid search, and delivers compressed context capsules with session memory. 74% fewer tokens, 30 languages, zero cloud.
 
@@ -28,7 +28,7 @@ Solo-built the full stack: native Rust daemon, TypeScript MCP server (11 tools),
 
 ---
 
-### 🎬 [Lumigo](https://lumigo.tv) — AI-powered entertainment discovery
+### [Lumigo](https://lumigo.tv) — AI-powered entertainment discovery
 
 NLP mood-based content recommendations. **500K+ page views, 30K users, €0 marketing.**
 
@@ -53,11 +53,6 @@ I build things, ship them, and get users — consistently, without budgets.
 
 6+ years at Intesa Sanpaolo, one of Europe's largest banks. Started as Software Analyst building enterprise integrations across trading, front-office, and core banking (IBM MQ, WebSphere, SQL, Python, Unix) - cut deployment time 40% via CI/CD. Promoted to Team Leader: led a hybrid team of 6 (finance and IT) managing SLAs, budgets, and direct stakeholder relationships with trading desks. 99.9% uptime. ECB/ECMS regulatory compliance delivered on schedule.
 
-## Current focus
-
-- 🦀 Shipping vexp v2: multi-repo workspaces, expanded language support, team features
-- 🔍 Looking for a cofounder — deep in developer GTM, growth, or product strategy
-- 📖 Writing about AI agent infrastructure at [vexp.dev/blog](https://vexp.dev/blog)
 
 ## Connect
 
